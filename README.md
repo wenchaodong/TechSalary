@@ -1,6 +1,6 @@
 # Analysis of the Gender Pay Gap and Workplace Culture in the Technology Sector
 
-This repository contains data and codes used in three studies.
+This repository contains anonymized data and codes used in three studies.
 
 ## Study 1
 ### Data
